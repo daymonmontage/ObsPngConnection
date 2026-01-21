@@ -1,5 +1,6 @@
 {
-    "ip": "bore.pub",
-    "port": "39338",
-    "updated_at": "2026-01-21 22:05:46"
+    "ip": "insight-seq-alot-served.trycloudflare.com",
+    "port": 443,
+    "protocol": "wss",
+    "updated_at": "2026-01-21 22:34:26"
 }
