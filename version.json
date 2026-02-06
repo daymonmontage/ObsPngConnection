@@ -1,7 +1,8 @@
 {
-    "version": "1.0.3",
-    "url": "https://github.com/daymonmontage/ObsPngConnection/releases/download/v1.0.3/DaymonGuest.exe",
+    "version": "1.0.4",
+    "url": "https://github.com/daymonmontage/ObsPngConnection/releases/download/v1.0.4/DaymonGuest.exe",
     "notes": "Исправлена критическая ошибка 'timed out' при входе. Увеличено время ожидания сервера до 15 секунд. Добавлена поддержка SSL."
 }
+
 
 
