@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "version": "1.0.4",
     "url": "https://github.com/daymonmontage/ObsPngConnection/releases/download/v1.0.4/DaymonGuest.exe",
@@ -7,3 +8,10 @@
 
 
 
+=======
+{
+    "version": "1.0.5",
+    "url": "https://github.com/daymonmontage/ObsPngConnection/releases/download/v1.0.5/DaymonGuest.exe",
+    "notes": "Исправления проблем с подключением и перезагрузкой сервера."
+}
+>>>>>>> fcfaa1f ([Клиент] v1.0.5: Исправления проблем с подключением и перезагрузкой сервера.)
